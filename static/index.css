@@ -61,18 +61,10 @@ form input, form button {
 	height: 12px;
 }
 
-.form-control {
-	border: none !important;
+.point-success {
+	background-color: #28a745;
 }
 
-.btn-success {
-	border: none !important;
-}
-
-.alert-danger {
-	border: none !important;
-}
-
-.alert-primary {
-	border: none !important;
+.point-danger {
+	background-color: #dc3545;
 }
